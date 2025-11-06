@@ -78,7 +78,9 @@ jobs:
               @{ Url = "https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack45.zip"; Name = "VBCABLE.zip" },
               @{ Url = "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user"; Name = "VisualStudio.exe" },
               @{ Url = "https://nodejs.org/dist/v24.11.0/node-v24.11.0-x64.msi"; Name = "node-v24.msi" },
-              @{ Url = "https://mirror2.internetdownloadmanager.com/idman642build42.exe"; Name = "idman.exe" }
+              @{ Url = "https://mirror2.internetdownloadmanager.com/idman642build42.exe"; Name = "idman.exe" },
+              @{ Url = "https://bits.avcdn.net/productfamily_CCLEANER7/insttype_FREE/platform_WIN/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_003_999_a9k_m"; Name = "ccleaner.exe" }
+              
               
             )
 
